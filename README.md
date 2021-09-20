@@ -34,8 +34,9 @@ Se cumplio con todas las condiciones
 #### Se uso:
 
 - NetBeans IDE:  8.2
-- Driver:  - mysql-connector: 5.1.23-bin.jar 
-           - javax.persistence-2.0.0.jar
+- Driver: 
+          - mysql-connector: 5.1.23-bin.jar
+          - javax.persistence-2.0.0.jar
  
  
  
