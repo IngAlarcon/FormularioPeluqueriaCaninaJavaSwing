@@ -26,7 +26,8 @@ Se evaluará:
 - El orden del código, correcta implementación de las estructuras y el uso de comentarios de guía/ayuda.
 - El cumplimiento de los formatos solicitados para cada uno de los archivos.
 
-## Vista del trabajo terminado
+## Vista del trabajo terminado 
+Se cumplio con todas las condiciones 
 
 <img src=" "/>
 
