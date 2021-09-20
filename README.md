@@ -37,5 +37,11 @@ Se cumplio con todas las condiciones
 - Driver: mysql-connector: 5.1.23-bin.jar
 - Driver: javax.persistence-2.0.0.jar
  
- 
+DATOS BASE DE DATOS:
+ - Usuario: tpfinal
+ - Contraseña: tpfinal
+ - bd: tpfinal_bd
+ - host: localhost
+ - Puerto: 33065
+ - Url: jdbc:mysql://localhost:33065/tpfinal_bd?serverTimezone=UTC
  
