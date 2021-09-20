@@ -1,0 +1,14 @@
+NetBeans IDE:  8.2
+Driver mysql-connector: 5.1.23-bin.jar 
+
+DATOS BASE DE DATOS
+Usuario: tpo2integrador
+Contraseña:  tpo2integrador
+bd: tpo2int
+host: localhost
+Puerto: 33065
+Url: jdbc:mysql://localhost:33065/tpo2int?serverTimezone=UTC
+
+
+
+
